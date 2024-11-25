@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="stokkModelStoreContainer" CdmEntityContainer="stokkEntities">
+    <EntitySetMapping Name="Table">
+      <EntityTypeMapping TypeName="stokkModel.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="UrunId" ColumnName="UrunId" />
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="KitapAdi" ColumnName="KitapAdi" />
+          <ScalarProperty Name="YazarAdi" ColumnName="YazarAdi" />
+          <ScalarProperty Name="Yayinevi" ColumnName="Yayinevi" />
+          <ScalarProperty Name="YayinYili" ColumnName="YayinYili" />
+          <ScalarProperty Name="Dili" ColumnName="Dili" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="RafKodu" ColumnName="RafKodu" />
+          <ScalarProperty Name="KitapSayisi" ColumnName="KitapSayisi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

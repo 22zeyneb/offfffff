@@ -1,0 +1,16 @@
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\bin\Debug\STOK TAKİP SON HALİ.exe.config
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\bin\Debug\STOK TAKİP SON HALİ.exe
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\bin\Debug\STOK TAKİP SON HALİ.pdb
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK TAKİP SON HALİ.csproj.AssemblyReference.cache
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK_TAKİP_SON_HALİ.Form1.resources
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK_TAKİP_SON_HALİ.Form3.resources
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK_TAKİP_SON_HALİ.Properties.Resources.resources
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK TAKİP SON HALİ.csproj.GenerateResource.cache
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK TAKİP SON HALİ.csproj.CoreCompileInputs.cache
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK TAKİP SON HALİ.exe
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK TAKİP SON HALİ.pdb
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\bin\Debug\EntityFramework.dll
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\bin\Debug\EntityFramework.xml
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\Source\Repos\STOK-TAK-P-SON-HAL-\STOK TAKİP SON HALİ\obj\Debug\STOK TAK.D1293612.Up2Date

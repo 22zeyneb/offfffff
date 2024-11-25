@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="stokkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="UrunId" />
+    </Key>
+    <Property Name="UrunId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ISBN" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapAdi" Type="nvarchar" MaxLength="100" />
+    <Property Name="YazarAdi" Type="nvarchar" MaxLength="100" />
+    <Property Name="Yayinevi" Type="nvarchar" MaxLength="50" />
+    <Property Name="YayinYili" Type="int" />
+    <Property Name="Dili" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="float" />
+    <Property Name="RafKodu" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapSayisi" Type="int" />
+  </EntityType>
+  <EntityContainer Name="stokkModelStoreContainer">
+    <EntitySet Name="Table" EntityType="Self.Table" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
